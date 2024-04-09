@@ -13,7 +13,7 @@ ps -ef | grep java
 kill -9 PID con el wasadmin (de preferencia siempre levantarlo con el wasadmin)
 ○ Sacar un backup config del was
 
-cd /opt/IBM/WebSphere/AppServer/profiles/BMOVIL_DES1/bin
+cd /opt/IBM/WebSphere/AppServer/profiles/IMOVIL_CERT/bin
 ./backupConfig.sh
 
 2. PROCEDIMIENTO____________________________________________________________________________________
